@@ -15,8 +15,6 @@ An **AI-powered chatbot** built with **FastAPI (Python) for the backend** and **
 - **Styling**: CSS  
 - **API Communication**: Axios  
 
-### **Preview**  
-![Working Screenshot](qwen-chatbot-ui/Working-Screenshot.jpg)
 
   
 
