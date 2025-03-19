@@ -16,7 +16,8 @@ An **AI-powered chatbot** built with **FastAPI (Python) for the backend** and **
 - **API Communication**: Axios  
 
 ### **Preview**  
-![Chatbot Screenshot](screenshot.jpg)  
+![Working Screenshot](working-screenshot.jpg)
+  
 
 🔗 **Clone & Run**: Follow the setup guide in the README! 🚀
 
