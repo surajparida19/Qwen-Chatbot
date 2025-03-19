@@ -1,3 +1,27 @@
+**Qwen Chatbot** 🤖💬  
+
+An **AI-powered chatbot** built with **FastAPI (Python) for the backend** and **React.js for the frontend**. It enables **real-time interaction** with an AI model, making it ideal for **customer support, FAQs, or virtual assistance**.  
+
+### **Key Features**  
+✅ FastAPI-based backend for efficient API handling  
+✅ React.js frontend with a user-friendly chat interface  
+✅ Real-time communication with AI  
+✅ Axios for API requests  
+✅ Loading indicator for better UX  
+
+### **Tech Stack**  
+- **Backend**: FastAPI, Python  
+- **Frontend**: React.js, JavaScript  
+- **Styling**: CSS  
+- **API Communication**: Axios  
+
+### **Preview**  
+![Chatbot Screenshot](screenshot.jpg)  
+
+🔗 **Clone & Run**: Follow the setup guide in the README! 🚀
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
